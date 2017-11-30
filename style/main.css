@@ -60,8 +60,9 @@ form{
 }
 
 h1 {
+    display: block;
     font-size: 24px;
-    margin-top: 25px;
+    padding-top: 25px;
     margin-bottom: 15px;
 }
 
@@ -87,7 +88,7 @@ h2 {
 }
 
 p{display:inline}
-.TEXT {
+p {
     font-family: Arial;
     font-size: 14px;
 }

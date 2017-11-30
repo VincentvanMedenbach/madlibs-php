@@ -7,9 +7,10 @@ $beste = $_REQUEST['beste'];    //5
 $slechste = $_REQUEST['slechste']; //6
 $overkomen = $_REQUEST['overkomen']; //7
 ?>
+
 <section id="TextArea">
     <article>
-        <h2>onkunde</h2>
+        <h1>onkunde</h1>
         <p>Er zijn veel mensen die niet kunnen <?php echo $kunnen; ?>. Neem
             nou <?php echo $persoon; ?>. Zelfs met de hulp van een <?php echo $vakantie; ?> of
             zelfs <?php echo $getal; ?> kan <?php echo $persoon; ?>
